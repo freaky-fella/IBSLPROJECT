@@ -5,3 +5,4 @@ Problem: Manually matching student tutors with students based on subject needs, 
 
 Computational Solution: A program that tajkes tutor/student profile data and runs a matching algorithm to generate optimal pairings while logging past session histories.
 
+![UML Mockup Design](https://github.com/freaky-fella/IBSLPROJECT/blob/main/images/IBSLPROJECTUMLDIAGRAM.png?raw=true)
