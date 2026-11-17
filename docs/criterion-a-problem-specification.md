@@ -11,7 +11,7 @@
 ### Current Workflow and Operational Bottlenecks
 Currently, the peer tutoring program relies on static spreadsheets (Google Sheets / Excel) and physical paper sign-in logs to manage intake, scheduling, and volunteer hour tracking. At the beginning of each term—and whenever student timetables shift—the coordinator manually cross-references tutee intake responses against tutor rosters. 
 
-Consultation with the coordinator highlighted four recurring operational failures in this manual workflow *(see Appendix A for client interview notes)*:
+
 1. **Time-Intensive Matching:** Manually comparing a tutee's requested subject and weekly free periods against dozens of tutor schedules requires several hours of administrative work each week.
 2. **Schedule and Qualification Conflicts:** Visual scanning of spreadsheet grids frequently results in human errors, including double-booking a tutor during the same period, pairing students with zero overlapping free periods, or assigning tutors to subjects they are not qualified to teach.
 3. **Unreliable Volunteer Hour Verification:** Paper attendance sheets are periodically misplaced or miscalculated, creating discrepancies when verifying service hours for honor society credit or graduation requirements.
